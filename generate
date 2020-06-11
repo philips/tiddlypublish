@@ -1,0 +1,5 @@
+#!/bin/sh
+
+yarn install
+yarn tiddlywiki --build static
+ls -la output/static

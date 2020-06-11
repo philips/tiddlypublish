@@ -1,0 +1,11 @@
+{
+  "name": "tiddlypublish",
+  "dependencies": {
+    "tiddlywiki": "5.1.22"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:philips/tiddlypublish",
+  "author": "Brandon Philips <brandon@ifup.org>",
+  "license": "MIT"
+}
